@@ -1,0 +1,5 @@
+
+aws ec2 describe-security-groups --group-names MySecurityGroup
+
+
+"Snapshots[*].{\"ID\":\"SnapshotId\",\"Description:Description\",\"Size\":\"VolumeSize\",\"Created:StartTime\"}"
